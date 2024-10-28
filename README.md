@@ -1,6 +1,6 @@
 
 ## My name is Elton Marques
-(Desenvolvedor Java | Spring Boot | Backend | Microsservices | REST API | AWS Cloud |) 🚀
+(Desenvolvedor Java | Spring Boot | Backend | Programador | Microsservices | REST API | AWS Cloud |) 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-marques-java/) 
 
